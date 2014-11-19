@@ -6,10 +6,9 @@ def function_num(list):
      sum=sum+list[i]
   min=sum/len(list)
   s=sorted(list)
-  if len(s)%2==0:
+
       l=len(s)/2
       h=len(s)/2-1
-      md=(s[l]+s[h])/2
 
 
   print min
