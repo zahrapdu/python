@@ -20,6 +20,6 @@ def function_num(list):
   print N
 if __name__=='__main__':
  print function_num([12,6,7,3,15,10,18,5])
- print function_num([5,6,7,3,15,6,18,2])
+ print function_num([5,6,7,88,15,6,18,2])
  print function_num([12,6,7,3,5])
  print function_num([12,6,5,10,18,5])
